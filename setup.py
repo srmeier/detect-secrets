@@ -25,7 +25,6 @@ setup(
     install_requires=[
         'pyyaml',
         'requests',
-        'urllib3<2.0.0',
         'boxsdk[jwt]',
         'packaging',
         'tabulate',
